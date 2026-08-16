@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-16T22:38:17.560139+00:00",
-  "lastAttemptAt": "2026-08-16T22:38:17.560139+00:00",
+  "generatedAt": "2026-08-16T23:34:30.979162+00:00",
+  "lastAttemptAt": "2026-08-16T23:34:30.979162+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 71. East wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-16T22:38:17.560139+00:00",
+      "updated": "2026-08-16T23:34:30.979162+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-16T17:00:00-05:00",
+          "startTime": "2026-08-16T16:00:00-05:00",
           "endTime": "2026-08-16T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 103,
@@ -607,7 +607,7 @@
           "detailedForecast": "Mostly clear, with a low around 75. East wind around 5 mph."
         }
       ],
-      "updated": "2026-08-16T22:38:17.560139+00:00",
+      "updated": "2026-08-16T23:34:30.979162+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly clear, with a low around 73. East wind around 5 mph."
         }
       ],
-      "updated": "2026-08-16T22:38:17.560139+00:00",
+      "updated": "2026-08-16T23:34:30.979162+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,10 +921,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-16T17:00:00-05:00",
-        "endTime": "2026-08-16T18:00:00-05:00",
-        "isDaytime": true,
-        "temperature": 104,
+        "startTime": "2026-08-16T18:00:00-05:00",
+        "endTime": "2026-08-16T19:00:00-05:00",
+        "isDaytime": false,
+        "temperature": 103,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -939,9 +939,9 @@
           "unitCode": "wmoUnit:percent",
           "value": 30
         },
-        "windSpeed": "8 mph",
-        "windDirection": "WNW",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
+        "windSpeed": "7 mph",
+        "windDirection": "NW",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
         "shortForecast": "Slight Chance Showers And Thunderstorms",
         "detailedForecast": ""
       },
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly clear, with a low around 73."
         }
       ],
-      "updated": "2026-08-16T22:38:17.560139+00:00",
+      "updated": "2026-08-16T23:34:30.979162+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-16T16:00:00-05:00",
+          "startTime": "2026-08-16T17:00:00-05:00",
           "endTime": "2026-08-16T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 103,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Clear, with a low around 77."
         }
       ],
-      "updated": "2026-08-16T22:38:17.560139+00:00",
+      "updated": "2026-08-16T23:34:30.979162+00:00",
       "stale": false
     }
   }
