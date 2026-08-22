@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T13:01:54.016671+00:00",
-  "lastAttemptAt": "2026-08-22T13:01:54.016671+00:00",
+  "generatedAt": "2026-08-22T13:45:02.488931+00:00",
+  "lastAttemptAt": "2026-08-22T13:45:02.488931+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 73. Southeast wind around 5 mph."
         }
       ],
-      "updated": "2026-08-22T13:01:54.016671+00:00",
+      "updated": "2026-08-22T13:45:02.488931+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "Partly cloudy, with a low around 76. Southeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-22T13:01:54.016671+00:00",
+      "updated": "2026-08-22T13:45:02.488931+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Partly cloudy, with a low around 74. Southeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-22T13:01:54.016671+00:00",
+      "updated": "2026-08-22T13:45:02.488931+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly clear, with a low around 75."
         }
       ],
-      "updated": "2026-08-22T13:01:54.016671+00:00",
+      "updated": "2026-08-22T13:45:02.488931+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-22T08:00:00-05:00",
+          "startTime": "2026-08-22T06:00:00-05:00",
           "endTime": "2026-08-22T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 103,
@@ -1260,13 +1260,13 @@
           "temperatureTrend": null,
           "probabilityOfPrecipitation": {
             "unitCode": "wmoUnit:percent",
-            "value": 22
+            "value": 24
           },
           "windSpeed": "9 mph",
           "windDirection": "SE",
-          "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_hi,20?size=medium",
-          "shortForecast": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of rain showers before 1pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 103. Heat index values as high as 108. Southeast wind around 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
+          "shortForecast": "Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms. Mostly sunny, with a high near 103. Heat index values as high as 108. Southeast wind around 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "number": 2,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Mostly clear, with a low around 78."
         }
       ],
-      "updated": "2026-08-22T13:01:54.016671+00:00",
+      "updated": "2026-08-22T13:45:02.488931+00:00",
       "stale": false
     }
   }
