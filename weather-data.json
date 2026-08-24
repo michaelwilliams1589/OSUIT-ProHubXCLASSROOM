@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-24T13:14:17.410202+00:00",
-  "lastAttemptAt": "2026-08-24T13:14:17.410202+00:00",
+  "generatedAt": "2026-08-24T14:04:50.613786+00:00",
+  "lastAttemptAt": "2026-08-24T14:04:50.613786+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 75. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-24T13:14:17.410202+00:00",
+      "updated": "2026-08-24T14:04:50.613786+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-24T07:00:00-05:00",
+          "startTime": "2026-08-24T08:00:00-05:00",
           "endTime": "2026-08-24T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 96,
@@ -351,13 +351,13 @@
           "temperatureTrend": null,
           "probabilityOfPrecipitation": {
             "unitCode": "wmoUnit:percent",
-            "value": 21
+            "value": 69
           },
           "windSpeed": "10 mph",
           "windDirection": "SE",
-          "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20/bkn?size=medium",
-          "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Sunny",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 10am. Partly sunny, with a high near 96. Heat index values as high as 104. Southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+          "icon": "https://api.weather.gov/icons/land/day/tsra_sct,70/tsra_sct,20?size=medium",
+          "shortForecast": "Showers And Thunderstorms Likely then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "Showers and thunderstorms likely before 10am, then a slight chance of showers and thunderstorms between 10am and 1pm. Mostly cloudy, with a high near 96. Heat index values as high as 104. Southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%."
         },
         {
           "number": 2,
@@ -607,7 +607,7 @@
           "detailedForecast": "Mostly clear, with a low around 78. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-24T13:14:17.410202+00:00",
+      "updated": "2026-08-24T14:04:50.613786+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly clear, with a low around 76. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-24T13:14:17.410202+00:00",
+      "updated": "2026-08-24T14:04:50.613786+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly clear, with a low around 77."
         }
       ],
-      "updated": "2026-08-24T13:14:17.410202+00:00",
+      "updated": "2026-08-24T14:04:50.613786+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,8 +1224,8 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-24T07:00:00-05:00",
-        "endTime": "2026-08-24T08:00:00-05:00",
+        "startTime": "2026-08-24T08:00:00-05:00",
+        "endTime": "2026-08-24T09:00:00-05:00",
         "isDaytime": true,
         "temperature": 81,
         "temperatureUnit": "F",
@@ -1242,8 +1242,8 @@
           "unitCode": "wmoUnit:percent",
           "value": 60
         },
-        "windSpeed": "7 mph",
-        "windDirection": "SSE",
+        "windSpeed": "8 mph",
+        "windDirection": "S",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
         "shortForecast": "Partly Sunny",
         "detailedForecast": ""
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Mostly clear, with a low around 79."
         }
       ],
-      "updated": "2026-08-24T13:14:17.410202+00:00",
+      "updated": "2026-08-24T14:04:50.613786+00:00",
       "stale": false
     }
   }
