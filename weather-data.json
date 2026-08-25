@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-25T09:00:50.421287+00:00",
-  "lastAttemptAt": "2026-08-25T09:00:50.421287+00:00",
+  "generatedAt": "2026-08-25T09:52:06.482381+00:00",
+  "lastAttemptAt": "2026-08-25T09:52:06.482381+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Sunny, with a high near 101. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-25T09:00:50.421287+00:00",
+      "updated": "2026-08-25T09:52:06.482381+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "Sunny, with a high near 101. South wind 10 to 15 mph, with gusts as high as 25 mph."
         }
       ],
-      "updated": "2026-08-25T09:00:50.421287+00:00",
+      "updated": "2026-08-25T09:52:06.482381+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Sunny, with a high near 100. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-25T09:00:50.421287+00:00",
+      "updated": "2026-08-25T09:52:06.482381+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Sunny, with a high near 101."
         }
       ],
-      "updated": "2026-08-25T09:00:50.421287+00:00",
+      "updated": "2026-08-25T09:52:06.482381+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-25T03:00:00-05:00",
+          "startTime": "2026-08-25T04:00:00-05:00",
           "endTime": "2026-08-25T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 78,
@@ -1263,10 +1263,10 @@
             "value": 20
           },
           "windSpeed": "3 mph",
-          "windDirection": "S",
+          "windDirection": "SSW",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms after 4am. Partly cloudy, with a low around 78. South wind around 3 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms. Partly cloudy, with a low around 78. South southwest wind around 3 mph. Chance of precipitation is 20%."
         },
         {
           "number": 2,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Sunny, with a high near 101."
         }
       ],
-      "updated": "2026-08-25T09:00:50.421287+00:00",
+      "updated": "2026-08-25T09:52:06.482381+00:00",
       "stale": false
     }
   }
