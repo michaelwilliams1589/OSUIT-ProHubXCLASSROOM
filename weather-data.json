@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-01T19:42:28.356860+00:00",
-  "lastAttemptAt": "2026-11-01T19:42:28.356860+00:00",
+  "generatedAt": "2026-11-01T23:37:29.974492+00:00",
+  "lastAttemptAt": "2026-11-01T23:37:29.974492+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,8 +12,8 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-11-01T13:00:00-06:00",
-        "endTime": "2026-11-01T14:00:00-06:00",
+        "startTime": "2026-11-01T17:00:00-06:00",
+        "endTime": "2026-11-01T18:00:00-06:00",
         "isDaytime": true,
         "temperature": 71,
         "temperatureUnit": "F",
@@ -31,16 +31,16 @@
           "value": 76
         },
         "windSpeed": "5 mph",
-        "windDirection": "S",
-        "icon": "https://api.weather.gov/icons/land/day/ovc?size=small",
-        "shortForecast": "Cloudy",
+        "windDirection": "SE",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
+        "shortForecast": "Partly Sunny",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-11-01T13:00:00-06:00",
+          "startTime": "2026-11-01T17:00:00-06:00",
           "endTime": "2026-11-01T18:00:00-06:00",
           "isDaytime": true,
           "temperature": 74,
@@ -304,7 +304,7 @@
           "detailedForecast": "A slight chance of rain showers. Partly cloudy, with a low around 43. Northwest wind around 0 mph."
         }
       ],
-      "updated": "2026-11-01T19:42:28.356860+00:00",
+      "updated": "2026-11-01T23:37:29.974492+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -315,35 +315,35 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-11-01T13:00:00-06:00",
-        "endTime": "2026-11-01T14:00:00-06:00",
+        "startTime": "2026-11-01T17:00:00-06:00",
+        "endTime": "2026-11-01T18:00:00-06:00",
         "isDaytime": true,
-        "temperature": 70,
+        "temperature": 71,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 5
+          "value": 4
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 17.77777777777778
+          "value": 17.22222222222222
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 81
+          "value": 76
         },
         "windSpeed": "5 mph",
         "windDirection": "SE",
-        "icon": "https://api.weather.gov/icons/land/day/ovc?size=small",
-        "shortForecast": "Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
+        "shortForecast": "Partly Sunny",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-11-01T13:00:00-06:00",
+          "startTime": "2026-11-01T17:00:00-06:00",
           "endTime": "2026-11-01T18:00:00-06:00",
           "isDaytime": true,
           "temperature": 72,
@@ -351,13 +351,13 @@
           "temperatureTrend": null,
           "probabilityOfPrecipitation": {
             "unitCode": "wmoUnit:percent",
-            "value": 5
+            "value": 4
           },
           "windSpeed": "5 mph",
           "windDirection": "SE",
           "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 72. Southeast wind around 5 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 72. Southeast wind around 5 mph."
         },
         {
           "number": 2,
@@ -607,7 +607,7 @@
           "detailedForecast": "A slight chance of rain showers. Partly cloudy, with a low around 47. Northwest wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-11-01T19:42:28.356860+00:00",
+      "updated": "2026-11-01T23:37:29.974492+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,35 +618,35 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-11-01T13:00:00-06:00",
-        "endTime": "2026-11-01T14:00:00-06:00",
+        "startTime": "2026-11-01T17:00:00-06:00",
+        "endTime": "2026-11-01T18:00:00-06:00",
         "isDaytime": true,
         "temperature": 71,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 5
+          "value": 3
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 18.333333333333332
+          "value": 17.77777777777778
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 81
+          "value": 79
         },
         "windSpeed": "5 mph",
         "windDirection": "SE",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
-        "shortForecast": "Mostly Cloudy",
+        "shortForecast": "Partly Sunny",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-11-01T13:00:00-06:00",
+          "startTime": "2026-11-01T17:00:00-06:00",
           "endTime": "2026-11-01T18:00:00-06:00",
           "isDaytime": true,
           "temperature": 73,
@@ -654,7 +654,7 @@
           "temperatureTrend": null,
           "probabilityOfPrecipitation": {
             "unitCode": "wmoUnit:percent",
-            "value": 5
+            "value": 3
           },
           "windSpeed": "5 mph",
           "windDirection": "SE",
@@ -910,7 +910,7 @@
           "detailedForecast": "A slight chance of rain showers. Partly cloudy, with a low around 45. Northwest wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-11-01T19:42:28.356860+00:00",
+      "updated": "2026-11-01T23:37:29.974492+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,15 +921,15 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-11-01T13:00:00-06:00",
-        "endTime": "2026-11-01T14:00:00-06:00",
+        "startTime": "2026-11-01T17:00:00-06:00",
+        "endTime": "2026-11-01T18:00:00-06:00",
         "isDaytime": true,
         "temperature": 72,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 1
+          "value": 2
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-11-01T13:00:00-06:00",
+          "startTime": "2026-11-01T17:00:00-06:00",
           "endTime": "2026-11-01T18:00:00-06:00",
           "isDaytime": true,
           "temperature": 74,
@@ -959,11 +959,11 @@
             "unitCode": "wmoUnit:percent",
             "value": 2
           },
-          "windSpeed": "7 mph",
+          "windSpeed": "6 mph",
           "windDirection": "SSE",
           "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 74. South southeast wind around 7 mph."
+          "detailedForecast": "Partly sunny, with a high near 74. South southeast wind around 6 mph."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A chance of rain showers. Mostly clear, with a low around 45."
         }
       ],
-      "updated": "2026-11-01T19:42:28.356860+00:00",
+      "updated": "2026-11-01T23:37:29.974492+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,8 +1224,8 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-11-01T13:00:00-06:00",
-        "endTime": "2026-11-01T14:00:00-06:00",
+        "startTime": "2026-11-01T17:00:00-06:00",
+        "endTime": "2026-11-01T18:00:00-06:00",
         "isDaytime": true,
         "temperature": 72,
         "temperatureUnit": "F",
@@ -1242,10 +1242,10 @@
           "unitCode": "wmoUnit:percent",
           "value": 73
         },
-        "windSpeed": "7 mph",
-        "windDirection": "S",
+        "windSpeed": "8 mph",
+        "windDirection": "SSE",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
-        "shortForecast": "Mostly Cloudy",
+        "shortForecast": "Partly Sunny",
         "detailedForecast": ""
       },
       "periods": [
@@ -1516,7 +1516,7 @@
           "detailedForecast": "A slight chance of rain showers. Mostly clear, with a low around 48."
         }
       ],
-      "updated": "2026-11-01T19:42:28.356860+00:00",
+      "updated": "2026-11-01T23:37:29.974492+00:00",
       "stale": false
     }
   }
